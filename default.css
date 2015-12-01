@@ -304,6 +304,8 @@
 	#header-image{
 		background: #111111 url(Images/roundtable.jpg) no-repeat center;
 		background-size: cover;
+		height: 801px;
+		width: 100%;
 	}
 	
 	#content-wrapper{
